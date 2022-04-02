@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     "~/components/footer",
     "~/components/hero",
     "~/components/article",
+    "~/components/section",
 
     "~/pages",
   ],
