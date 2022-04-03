@@ -26,7 +26,7 @@
 
 ## Attribution
 
-- ![pexels](https://www.pexels.com/)
+- [pexels](https://www.pexels.com/)
 
 # Nuxt 3 Minimal Starter
 
