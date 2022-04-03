@@ -30,6 +30,10 @@
 
 - i finished everything i don't know what i did wrong my site is not deplyed in netlify.
 
+- i'm struck here for last one hour.
+
+- but the file looks okay in my local host.
+
 ## Attribution
 
 - [pexels](https://www.pexels.com/)
