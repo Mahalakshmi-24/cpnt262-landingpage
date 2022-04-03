@@ -1,10 +1,10 @@
 <template>
 
-<div v-for="section in section1" :key="section.id" :style="{ backgroundImage: `url(${section.image})`}" class="bg-cover h-96">
+<div v-for="section in section1" :key="section.id" :style="{ backgroundImage: `url(${section.image})`}" class="bg-cover h-96 ">
 
-  <h1 class="text-white">{{section.heading}}</h1>
+  <h1 class="text-yellow-400 hover:text-rose-600 font-extrabold text-4xl pt-32 text-center">{{section.heading}}</h1>
   
-  <p class="text-white">{{section.description}}</p>
+  <p class="text-yellow-400 hover:text-rose-600 font-extrabold text-2xl pt-4 text-center">{{section.description}}</p>
   
 
 </div>
