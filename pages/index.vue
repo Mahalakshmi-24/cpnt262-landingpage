@@ -2,8 +2,10 @@
 <div>
   <section>
   <TheNavBar />
-  </section>
+  </section >
+  <section class="mt-3">
   <BaseHero />
+  </section>
   <section >
   <TheBaseCard />
   </section>
@@ -13,6 +15,7 @@
 <section class="mt-10">
   <TheSection />
 </section>
+
 <section class="mt-10">
   <TheFooter />
 </section>
