@@ -28,6 +28,8 @@
 
 - i just start styling once i finish the page.
 
+- i finished everything i don't know what i did wrong my site is not deplyed in netlify.
+
 ## Attribution
 
 - [pexels](https://www.pexels.com/)
