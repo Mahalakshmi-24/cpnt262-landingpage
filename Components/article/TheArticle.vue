@@ -1,13 +1,15 @@
 <template>
-  <div class="bg-orange-700 grid grid-cols-2 gap-2 ">
-    <div>
-    <h1 class="text-white">Embark on our mission.</h1>
-    <p class="text-white">Subscribe to our newsletter to enjoy exclusive offers and know about everything brewing.</p>
-    <Button>Subscribe to Newsletter </Button>
-    </div>
-  <div class="">
-    <img src="https://cdn.shopify.com/s/files/1/0496/9637/4939/articles/Test_Cover_16_ede335f2-89eb-4b79-b40d-3fe27a5e9660_1560x.jpg?v=1646882516" alt="Newsletter" class="h-96 w-3/4">
+<div class="bg-red-200 grid grid-cols-2 gap-2 display: flex md:flex">
+<div class="flex sm:flex">
+    <img src="https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Newsletter" class="h-96 w-full">
    </div>
-  </div>
+
+  
+    <div class="mt-24 pl-20">
+    <h1 class="text-black font-extrabold text-4xl">Embark on our mission.</h1>
+    <p class="text-black font-medium text-xl pt-3">Subscribe to our newsletter to enjoy exclusive offers and know about everything brewing.</p>
+    <Button class="pt-5">Subscribe to Newsletter </Button>
+    </div>
+</div>
   
 </template>
