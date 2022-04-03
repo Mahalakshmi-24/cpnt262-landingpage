@@ -5,14 +5,12 @@ export default defineNuxtConfig({
   css: [],
   components: [
     "~/components",
-    "~/components/layouts",
     "~/components/ui",
     "~/components/cardlayout",
     "~/components/footer",
     "~/components/hero",
     "~/components/article",
     "~/components/section",
-
     "~/pages",
   ],
   buildModules: ["@nuxtjs/tailwindcss"],

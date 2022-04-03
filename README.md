@@ -4,6 +4,10 @@
 
 - CPNT262-Assignment 2 - Vue/Nuxt Landing Page
 
+- [GitHub repo](https://github.com/Mahalakshmi-24/cpnt262-landingpage)
+
+- [Netlify]()
+
 ## Code Journal
 
 - first created new nuxt3 app amd installed tailwindcss.
